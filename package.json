@@ -1,0 +1,24 @@
+{
+  "name": "taiwa-app",
+  "version": "1.0.0",
+  "description": "対話型のひな形作成アプリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naka-nishi-s/taiwa-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naka-nishi-s/taiwa-app/issues"
+  },
+  "homepage": "https://github.com/Naka-nishi-s/taiwa-app#readme",
+  "dependencies": {
+    "hello-world-npm": "^1.1.1",
+    "inquirer": "^9.2.8"
+  },
+  "type": "module"
+}
