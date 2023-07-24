@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Naka-nishi-s/taiwa-app.git"
   },
+  "bin": {
+    "create": "./index.js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
