@@ -1,6 +1,6 @@
 {
   "name": "taiwa-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "対話型のひな形作成アプリ",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Naka-nishi-s/taiwa-app.git"
   },
   "bin": {
-    "create": "./index.js"
+    "taiwa-app": "./index.js"
   },
   "author": "",
   "license": "ISC",
