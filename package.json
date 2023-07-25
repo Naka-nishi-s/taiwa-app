@@ -1,6 +1,6 @@
 {
   "name": "taiwa-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "対話型のひな形作成アプリ",
   "main": "index.js",
   "scripts": {
